@@ -4,11 +4,11 @@ These are some classic topics in daily work and interview.The repository maintai
 
 ## outline
 
-- compose
+- [compose](./src/compose.js)
 
-- sleep
+- [sleep](./src/sleep.js)
 
-- settimeout mock setinterval
+- [settimeout mock setinterval](./src/settimeout-mock-setinterval.js)
 
 - publish-subscribe pattern
 
@@ -42,7 +42,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - binary search
 
-- lazyman
+- [lazyman](./src/lazyman.js)
 
 - debounce throttle
 
@@ -59,6 +59,8 @@ These are some classic topics in daily work and interview.The repository maintai
 - DOM2JSON function
 
 - array-like to array
+
+- Object.create
 
 - Object.is
 
