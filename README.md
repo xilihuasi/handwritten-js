@@ -12,7 +12,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - publish-subscribe pattern
 
-- array duplicate removal
+- [array duplicate removal](./src/array-duplicate-removal.js)
 
 - flat array
 

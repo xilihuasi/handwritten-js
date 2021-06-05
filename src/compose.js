@@ -1,6 +1,6 @@
 /**
  * implement a(b(c(...args)))
- * @param  {...any} funcs 
+ * @param  {function} funcs 
  */
 const compose = (...funcs) => {
   if (!funcs.length) return (p) => p;
