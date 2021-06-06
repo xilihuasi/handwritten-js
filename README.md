@@ -26,7 +26,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - deep copy
 
-- instanceof
+- [instanceof](./src/instanceof.js)
 
 - curry
 
