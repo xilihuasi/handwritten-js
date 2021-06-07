@@ -30,7 +30,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - curry
 
-- bubble sort
+- [bubble sort](./src/bubble-sort.js)
 
 - choose sort
 
