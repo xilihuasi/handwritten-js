@@ -10,7 +10,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [settimeout mock setinterval](./src/settimeout-mock-setinterval.js)
 
-- publish-subscribe pattern
+- [publish subscribe pattern](./src/publish-subscribe.js)
 
 - [array duplicate removal](./src/array-duplicate-removal.js)
 
