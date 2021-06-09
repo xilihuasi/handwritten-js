@@ -16,7 +16,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [flat array](./src/flat-array.js)
 
-- parasitic combinatorial inheritance
+- [parasitic combinatorial inheritance](./src/parasitic-combinatorial-inheritance.js)
 
 - parallel promise
 
