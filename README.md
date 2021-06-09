@@ -14,7 +14,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [array duplicate removal](./src/array-duplicate-removal.js)
 
-- flat array
+- [flat array](./src/flat-array.js)
 
 - parasitic combinatorial inheritance
 
