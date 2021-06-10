@@ -62,7 +62,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - Object.create
 
-- Object.is
+- [Object.is](./src/object-is.js)
 
 - AJAX
 
