@@ -24,7 +24,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - call apply bind
 
-- deep copy
+- [deep copy](./src/deep-copy.js)
 
 - [instanceof](./src/instanceof.js)
 
