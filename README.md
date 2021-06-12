@@ -60,7 +60,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - array-like to array
 
-- Object.create
+- [Object.create](./src/object-create.js)
 
 - [Object.is](./src/object-is.js)
 
