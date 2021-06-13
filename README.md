@@ -28,7 +28,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [instanceof](./src/instanceof.js)
 
-- curry
+- [curry](./src/curry.js)
 
 - [bubble sort](./src/bubble-sort.js)
 
