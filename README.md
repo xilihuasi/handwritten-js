@@ -20,7 +20,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - parallel promise
 
-- new operator
+- [new operator](./src/new-operator.js)
 
 - call apply bind
 
