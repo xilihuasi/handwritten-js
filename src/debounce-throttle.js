@@ -25,24 +25,22 @@ function throttle(fn, ms) {
  */
 console.log(new Date().getTime())
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms))
-const d = debounce((input) => { console.log(`dd: ${input}`, new Date().getTime()); }, 1000)
-setTimeout(() => {
+const d = debounce((input) => { console.log(`dd: ${input}`, new Date().getTime()); }, 1000);
+(async () => {
+  await sleep(900)
   d('first')
-  setTimeout(() => {
-    d('second')
-    setTimeout(() => {
-      d('third')
-    }, 900);
-  }, 900);
-}, 900);
+  await sleep(900)
+  d('second')
+  await sleep(900)
+  d('third')
+})()
 
-const t = throttle((input) => { console.log(`tt: ${input}`, new Date().getTime()); }, 1000)
-setTimeout(() => {
+const t = throttle((input) => { console.log(`tt: ${input}`, new Date().getTime()); }, 1000);
+(async () => {
+  await sleep(900)
   t('first')
-  setTimeout(() => {
-    t('second')
-    setTimeout(() => {
-      t('third')
-    }, 900);
-  }, 900);
-}, 900);
+  await sleep(900)
+  t('second')
+  await sleep(900)
+  t('third')
+})()
