@@ -44,7 +44,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [lazyman](./src/lazyman.js)
 
-- debounce throttle
+- [debounce throttle](./src/debounce-throttle.js)
 
 - version number sort
 
