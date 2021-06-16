@@ -22,7 +22,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [new operator](./src/new-operator.js)
 
-- call apply bind
+- [call apply bind](./src/call-apply-bind.js)
 
 - [deep copy](./src/deep-copy.js)
 
