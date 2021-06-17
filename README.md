@@ -32,7 +32,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [bubble sort](./src/bubble-sort.js)
 
-- choose sort
+- [choose sort](./src/choose-sort.js)
 
 - insert sort
 
