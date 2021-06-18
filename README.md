@@ -34,7 +34,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [choose sort](./src/choose-sort.js)
 
-- insert sort
+- [insert sort](./src/insert-sort.js)
 
 - quick sort
 
