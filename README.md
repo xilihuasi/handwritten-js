@@ -36,7 +36,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [insert sort](./src/insert-sort.js)
 
-- quick sort
+- [quick sort](./src/quick-sort.js)
 
 - merge sort
 
