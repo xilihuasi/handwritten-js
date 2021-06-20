@@ -38,7 +38,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [quick sort](./src/quick-sort.js)
 
-- merge sort
+- [merge sort](./src/merge-sort.js)
 
 - binary search
 
