@@ -40,7 +40,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [merge sort](./src/merge-sort.js)
 
-- binary search
+- [binary search](./src/binary-search.js)
 
 - [lazyman](./src/lazyman.js)
 
