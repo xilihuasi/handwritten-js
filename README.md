@@ -48,7 +48,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - version number sort
 
-- LRU algorithm
+- [LRU algorithm](./src/LRU-algorithm.js)
 
 - Promise and it's methods
 
