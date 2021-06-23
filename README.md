@@ -74,6 +74,6 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - list to tree
 
-- tree to list
+- [tree to list](./src/tree-to-list.js)
 
 - [sum of big number](./src/big-number-sum.js)
