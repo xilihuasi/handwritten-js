@@ -72,7 +72,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - object flatten
 
-- list to tree
+- [list to tree](./src/list-to-tree.js)
 
 - [tree to list](./src/tree-to-list.js)
 
