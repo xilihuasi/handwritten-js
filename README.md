@@ -46,7 +46,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [debounce throttle](./src/debounce-throttle.js)
 
-- version number sort
+- [version number sort](./src/version-number-sort.js)
 
 - [LRU algorithm](./src/LRU-algorithm.js)
 
