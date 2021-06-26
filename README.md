@@ -52,7 +52,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - Promise and it's methods
 
-- add method
+- [add method](.../src/add-method.js)
 
 - change coins using dynamic programming
 
