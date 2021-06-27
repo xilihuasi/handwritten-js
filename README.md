@@ -64,7 +64,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [Object.is](./src/object-is.js)
 
-- AJAX
+- [AJAX](./src/ajax.js)
 
 - big data rendering based on fragmentation
 
