@@ -70,7 +70,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - template string parse
 
-- object flatten
+- [object flatten](./src/object-flatten.js)
 
 - [list to tree](./src/list-to-tree.js)
 
