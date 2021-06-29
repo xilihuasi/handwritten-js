@@ -68,7 +68,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - big data rendering based on fragmentation
 
-- template string parse
+- [template string parse](./src/template-string-parse.js)
 
 - [object flatten](./src/object-flatten.js)
 
