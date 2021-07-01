@@ -66,7 +66,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [AJAX](./src/ajax.js)
 
-- big data rendering based on fragmentation
+- [big data rendering based on fragmentation](./src/big-data-render.js)
 
 - [template string parse](./src/template-string-parse.js)
 
