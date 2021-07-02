@@ -52,9 +52,9 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - Promise and it's methods
 
-- [add method](.../src/add-method.js)
+- [add method](./src/add-method.js)
 
-- change coins using dynamic programming
+- [change coins using dynamic programming](./src/change-coins.js)
 
 - DOM2JSON function
 
