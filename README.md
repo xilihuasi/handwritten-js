@@ -50,7 +50,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [LRU algorithm](./src/LRU-algorithm.js)
 
-- Promise and it's methods
+- [Promise and it's methods](./src/promise.js)
 
 - [add method](./src/add-method.js)
 
