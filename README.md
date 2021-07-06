@@ -56,7 +56,7 @@ These are some classic topics in daily work and interview.The repository maintai
 
 - [change coins using dynamic programming](./src/change-coins.js)
 
-- DOM2JSON function
+- [DOM2JSON function](./src/dom2json.js)
 
 - [array-like to array](./src/array-like-to-array.js)
 
