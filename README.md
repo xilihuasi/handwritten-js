@@ -77,3 +77,5 @@ These are some classic topics in daily work and interview.The repository maintai
 - tree to list
 
 - sum of big number
+
+- [mock iterator](./src/mock-iterator.js)
